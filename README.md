@@ -16,7 +16,7 @@
  #youtube-dl ( video file URL / link )
  ```
 
-### To download a video as mp3 file, you can use one of the following commands:
+### To download a video as mp3 file, you can use the following commands:
 ```
 # youtube-dl -x --audio-format mp3 https://youtu.be/AGcioUkXQTI
 [youtube] AGcioUkXQTI: Downloading webpage
